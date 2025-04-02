@@ -1,0 +1,7 @@
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/NetApp
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/appsettings.Development.json
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/appsettings.json
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/NetApp.dll
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/NetApp.deps.json
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/NetApp.runtimeconfig.json
+/Users/santiagodejesusguerraorozco/Desktop/netApp/NetApp/bin/Publish/NetApp.pdb
